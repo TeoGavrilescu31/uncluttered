@@ -1,3 +1,13 @@
+# uncluttered
+
+### Description
+
+An assistant app designed to aid in organizing, categorizing or simply _uncluttering_ your thoughts, ides, todos, lists...
+
+### [Figma Design](https://www.figma.com/design/VRqkMfMeQlLkhBsjC44Nav/uncluttered)
+
+### [Trello Board](https://trello.com/b/FWR7DXzd/uncluttered)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
