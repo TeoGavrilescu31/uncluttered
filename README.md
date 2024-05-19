@@ -2,11 +2,11 @@
 
 ### Description
 
-An assistant app designed to aid in organizing, categorizing or simply _uncluttering_ your thoughts, ides, todos, lists...
+An assistant app designed to aid in organizing, categorizing or simply _**uncluttering**_ your thoughts, ides, todos, lists...
 
-### [Figma Design](https://www.figma.com/design/VRqkMfMeQlLkhBsjC44Nav/uncluttered)
+### _[Figma Design](https://www.figma.com/design/VRqkMfMeQlLkhBsjC44Nav/uncluttered)_
 
-### [Trello Board](https://trello.com/b/FWR7DXzd/uncluttered)
+### _[Trello Board](https://trello.com/b/FWR7DXzd/uncluttered)_
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
